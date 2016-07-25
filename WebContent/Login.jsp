@@ -23,9 +23,6 @@
 <td><input type="submit" value="Enter"/></td>
 <td><input type="reset" value="Clear"/></td>
 </table>
-
-
-
 </form>
 </center>
 
